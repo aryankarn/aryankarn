@@ -72,4 +72,4 @@
   "First, solve the problem. Then, write the code." – John Johnson
 </p>
 
-![snake gif](https://github.com/aryankarn/aryankarn/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/aryankarn/aryankarn/blob/output/github-contribution-grid-snake.svg)
